@@ -24,6 +24,8 @@ const Works = () => {
 								Software Engineer Intern
 								<p>
 								Intern in People & Culture department, optimized app performance 
+								</p>
+								<p>
 								by 50% through performance analysis and code optimizations.
 								</p>
 							</div>
