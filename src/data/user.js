@@ -39,7 +39,7 @@ const INFO = {
 			description:
 				"LinkedIn clone with Redux, React, and Firebase. Netlify hosting. Testing, optimization, and promotion for portfolio.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-				linkText: "https://linkedin-supratikghosh.netlify.app/",
+				linkText: "Github",
 			link: "https://github.com/StudyCode2231/Linked-in-clone",
 		},
 
