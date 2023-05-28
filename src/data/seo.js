@@ -5,21 +5,6 @@ const SEO = [
 			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
 		keywords: ["Supratik", "Supratik", "Supratik Ghosh"],
 	},
-
-	{
-		page: "about",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Supratik", "Supratik", "Supratik Ghosh"],
-	},
-
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Supratik", "Supratik ", "Supratik Ghosh"],
-	},
-
 	{
 		page: "projects",
 		description:
