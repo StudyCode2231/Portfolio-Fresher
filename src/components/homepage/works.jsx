@@ -23,7 +23,8 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer Intern
 								<p>
-								Intern in People & Culture department, optimized app performance by 50% through performance analysis and code optimizations.
+								Intern in People & Culture department, optimized app performance 
+								by 50% through performance analysis and code optimizations.
 								</p>
 							</div>
 							<div className="work-duration">Jan ,2022 -  May ,2022</div>
