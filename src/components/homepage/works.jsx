@@ -32,11 +32,7 @@ const Works = () => {
 							<div className="work-duration">Jan ,2022 -  May ,2022</div>
 						</div>
 						<div className="work">
-							<img
-								src="./Hrc.png"
-								alt="Hrc"
-								className="work-image"
-							/>
+							
 							<div className="work-title"></div>
 							<div className="work-subtitle">
 								
